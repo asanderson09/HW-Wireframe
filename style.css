@@ -14,22 +14,33 @@ text-align: center;
 
 #header {
     background-color: #ebebeb; 
-    
+    padding: 40px;
+    margin-top: 10px;
 }
 
 #nav {
     background-color: #ebebeb;
-}
-
-#aside {
-    background-color: #ebebeb;
+    padding: 40px
 }
 
 #section { 
-    background-color:#ebebeb; width: 495px;
+    background-color:#ebebeb; 
+    width: 495px;
+    padding: 150px;
+    margin-bottom: 20px;
+    
 }
 
+#aside {
+    background-color: #ebebeb; 
+    width: 460px;
+    padding: 40px;
+    
+}
 
 #footer { 
+    clear: both;
     background-color:#ebebeb;
+    padding: 40px;
+    margin-bottom: 100px;
 }
